@@ -1,7 +1,7 @@
 # finalCapstone
 Compulsory Task 2 - some Capstone project files from HyperionDev DfE bootcamp
 
-# Capstone Project VII Unsupervised Machine Learning
+## Capstone Project VII Unsupervised Machine Learning
 This notebook contains the final project in the Unsupervised Machine Learning module of the Data Science bootcamp course run by HyperionDev
 and funded by the Department for Education.
 The notebook uses the UsArrests.csv data about arrests per 100,000 population in 50 US states in 1973 for Rape, Assault and Murder.  The 
